@@ -1,0 +1,12 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "Über uns",
+        "services": "Dienstleistungen",
+        "contact": "Kontakt"
+    },
+    "banner": {
+        "title": "Vermittlung von Studenten der Hochschule und Fachschule aus dem Ausland zur Ferienbeschäftigung",
+        "subtitle": "Wir machen Ihr Unternehmen noch leistungsfähiger!"
+    }
+}

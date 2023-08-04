@@ -1,0 +1,12 @@
+{
+    "navbar": {
+        "home": "Asosiy",
+        "about": "Biz haqimizda",
+        "services": "Xizmatlar",
+        "contact": "Aloqa"
+    },
+    "banner": {
+        "title": "Xorijdan universitet va texnikum talabalarini ta'tilga ishga joylashtirish",
+        "subtitle": "Ishonchli va hamyonbop mavsumiy ish o'rinlari faqat bizda!"
+    }
+}

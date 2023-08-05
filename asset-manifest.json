@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5ec523a.css",
+    "main.css": "/static/css/main.5b4f6a67.css",
     "main.js": "/static/js/main.9b41c8df.js",
     "static/js/787.a4c2cecc.chunk.js": "/static/js/787.a4c2cecc.chunk.js",
     "static/media/student3.jpg": "/static/media/student3.28195c8df42f8207191a.jpg",
@@ -73,12 +73,12 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.d5ec523a.css.map": "/static/css/main.d5ec523a.css.map",
+    "main.5b4f6a67.css.map": "/static/css/main.5b4f6a67.css.map",
     "main.9b41c8df.js.map": "/static/js/main.9b41c8df.js.map",
     "787.a4c2cecc.chunk.js.map": "/static/js/787.a4c2cecc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5ec523a.css",
+    "static/css/main.5b4f6a67.css",
     "static/js/main.9b41c8df.js"
   ]
 }

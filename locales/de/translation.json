@@ -7,6 +7,9 @@
     },
     "banner": {
         "title": "Vermittlung von Studenten der Hochschule und Fachschule aus dem Ausland zur Ferienbeschäftigung",
-        "subtitle": "Wir machen Ihr Unternehmen noch leistungsfähiger!"
+        "subtitle": "Wir machen Ihr Unternehmen noch leistungsfähiger!",
+        "titleAbout": "Vermittlung von Studenten der Hochschule und Fachschule aus dem Ausland zur Ferienbeschäftigung",
+        "subtitleAbout": "Wir machen Ihr Unternehmen noch leistungsfähiger!"
+
     }
 }

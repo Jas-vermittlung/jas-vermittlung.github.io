@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.97c42079.css",
-    "main.js": "/static/js/main.ca103256.js",
+    "main.css": "/static/css/main.d5ec523a.css",
+    "main.js": "/static/js/main.9b41c8df.js",
     "static/js/787.a4c2cecc.chunk.js": "/static/js/787.a4c2cecc.chunk.js",
     "static/media/student3.jpg": "/static/media/student3.28195c8df42f8207191a.jpg",
     "static/media/student1.jpg": "/static/media/student1.e3f6d76bdd3fcca3ea72.jpg",
     "static/media/student2.jpg": "/static/media/student2.ac8634082d0581517c31.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.011981b55cb4d512b773.jpg",
     "static/media/banner1.jpg": "/static/media/banner1.9dd70d00b8e0a1139807.jpg",
+    "static/media/banner3.jpg": "/static/media/banner3.60d23c419bfb59131431.jpg",
     "static/media/flag-ru.svg": "/static/media/flag-ru.b7f1f57da72c3b92ab257f812d1b496f.svg",
     "static/media/flag-en.svg": "/static/media/flag-en.0883502f126948021beb1056e92935e0.svg",
     "static/media/logo-long.svg": "/static/media/logo-long.3b9ef8f3bd1a97e666105f44b7aed3aa.svg",
@@ -71,12 +73,12 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.97c42079.css.map": "/static/css/main.97c42079.css.map",
-    "main.ca103256.js.map": "/static/js/main.ca103256.js.map",
+    "main.d5ec523a.css.map": "/static/css/main.d5ec523a.css.map",
+    "main.9b41c8df.js.map": "/static/js/main.9b41c8df.js.map",
     "787.a4c2cecc.chunk.js.map": "/static/js/787.a4c2cecc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97c42079.css",
-    "static/js/main.ca103256.js"
+    "static/css/main.d5ec523a.css",
+    "static/js/main.9b41c8df.js"
   ]
 }

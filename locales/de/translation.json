@@ -9,7 +9,63 @@
         "title": "Vermittlung von Studenten der Hochschule und Fachschule aus dem Ausland zur Ferienbeschäftigung",
         "subtitle": "Wir machen Ihr Unternehmen noch leistungsfähiger!",
         "titleAbout": "Vermittlung von Studenten der Hochschule und Fachschule aus dem Ausland zur Ferienbeschäftigung",
-        "subtitleAbout": "Wir machen Ihr Unternehmen noch leistungsfähiger!"
-
-    }
+        "subtitleAbout": "Wir machen Ihr Unternehmen noch leistungsfähiger!",
+        "contact": "Kontaktieren"
+    },
+    "home": {
+        "subtitle": "Vermittlung von Studenten der Hochschule und Fachschule aus dem Ausland zur Ferienbeschäftigung",
+        "text1": "Viele deutsche Landwirte benötigen Saisonkräfte aus dem Ausland. Noch besser ist es, wenn Saisonarbeiter über grundlegende Sprachkenntnisse in Deutsch oder Englisch verfügen. Die Saisonarbeit beträgt 90 Tage, hauptsächlich im Juni, Juli, August. Das Unternehmen JAS-Vermittlung bietet usbekischen Studenten saisonale Arbeitsmöglichkeiten in Deutschland.",
+        "requirement": {
+            "title": "Voraussetzung für den Arbeitgeber",
+            "text1": "Eine Unterkunft für drei Monate bereitstellen",
+            "text2": "Anmeldung des Studenten bei den örtlichen Behörden",
+            "text3": "Ausführliche Arbeitseinweisung",
+            "text4": "Drei Monate die Studenten vollbeschäftigen",
+            "text5": "Lohnbezahlung an Studenten(gesetzliche Mindestlohn)",
+            "text6": "Vermittlungsgebühr bezahlen (monatlich 99 Euro pro Arbeitskraft)"
+        },
+        "advantages": {
+            "title": "Vorteile für den Arbeitgeber",
+            "text1": "Studenten sprechen Deutsch oder Englisch",
+            "text2": "Fachliches Wissen durch das Studium",
+            "text3": "Kenntnisse über die deutsche Kultur durch deutsche Sprache lernen",
+            "text4": "Motivierte und fleißige Mitarbeiter",
+            "text5": "Keine sozialversicherungspflichtige Beschäftigung aufgrund des Studentenstatus",
+            "text6": "Studenten werden in allen Bereichen eingesetzt"
+        }
+    },
+    "about": {
+        "subtitle": "Vermittlung von Studenten der Hochschule und Fachschule aus dem Ausland zur Ferienbeschäftigung",
+        "todo": {
+            "title": "Was wir tun?",
+            "text1": "Studentenvermittlung aus dem Ausland im Sommer (Ferienjob, 90 Tage)",
+            "text2": "Fachkräftevermittlung aus dem Ausland (Absolventen, langfristig)",
+            "text3": "Studentenvermittlung aus dem Ausland (Fachpraktikum, 2-3 Monate)"
+        }
+    },
+    "services": {
+        "subtitle": "Vermittlung von Studenten der Hochschule und Fachschule aus dem Ausland zur Ferienbeschäftigung",
+        "list": {
+            "title": "Unsere Dienstleistungen",
+            "text1": "Kommunikation mit den Hochschulen im Ausland",
+            "text2": "Auswahlverfahren in Deutsch und Fachwissen im Ausland durchführen",
+            "text3": "Beantragung für Arbeitsgenehmigung (ZAV) bei der Bundesagentur für Arbeit",
+            "text4": "Unterstützung der Studenten beim Visumverfahren",
+            "text5": "Wir übernehmen private Krankenversicherung für bis zu 3 Monate",
+            "text6": "Abholung vom Flughafen und Kontaktieren mit dem Arbeitgeber",
+            "text7": "Unterstützung bei der Integration des Arbeitgebers und Studenten während der Beschäftigung"
+        }
+    },
+    "contact": {
+        "title": "Kontakt"
+    },
+    "footer": {
+        "menu": "Menu",
+        "contact": "Verbinden Sie sich mit uns!",
+        "rights": "Alle Rechte vorbehalten.",
+        "imprint": "Impressum",
+        "dataProtection": "Datenschutz",
+        "madeBy": "Hergestellt von"
+    },
+    "pageNotFound": "Seite nicht gefunden"
 }

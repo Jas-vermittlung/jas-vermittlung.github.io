@@ -6,7 +6,66 @@
         "contact": "Aloqa"
     },
     "banner": {
-        "title": "Xorijdan universitet va texnikum talabalarini ta'tilga ishga joylashtirish",
-        "subtitle": "Ishonchli va hamyonbop mavsumiy ish o'rinlari faqat bizda!"
-    }
+        "title": "Universitet va texnikum talabalarini ta'til ishlariga jalb qilish",
+        "subtitle": "Biz sizning kompaniyangizni yanada samaraliroq qilamiz!",
+        "titleAbout": "Universitet va texnikum talabalarini ta'til ishlariga jalb qilish",
+        "subtitleAbout": "Biz sizning kompaniyangizni yanada samaraliroq qilamiz!",
+        "contact": "Bog'lanish"
+    },
+    "home": {
+        "subtitle": "Universitet va texnikum talabalarini ta'til ishlariga jalb qilish",
+        "text1": "Ko'pgina nemis fermerlari chet eldan mavsumiy ishchilarga muhtoj. Mavsumiy ishchilar nemis yoki ingliz tillarida asosiy til ko'nikmalariga ega bo'lsa, yana ham yaxshi. Mavsumiy ish 90 kun, asosan iyun, iyul, avgust oylarida. JAS-Vermittlung kompaniyasi O'zbekistonlik talabalarga Germaniyada mavsumiy ish imkoniyatlarini taklif etadi.",
+        "requirement": {
+            "title": "Ish beruvchiga qo'yiladigan talablar:",
+            "text1": "Uch oylik turar joy bilan ta'minlash",
+            "text2": "Mahalliy hokimiyat organlarida talabalarni ro'yxatga olish",
+            "text3": "Batafsil ish ko'rsatmalari",
+            "text4": "Talabalarni band qilish uchun uch oy",
+            "text5": "Talabalarga to'lovlar (qonuniy eng kam ish haqi)",
+            "text6": "Joyga joylashtirish to'lovini to'lash (har bir ishchi uchun oyiga 99 evro)"
+        },
+        "advantages": {
+            "title": "Ish beruvchi uchun imtiyozlar:",
+            "text1": "Talabalar nemis yoki ingliz tilida gaplashadi",
+            "text2": "O'qish orqali kasbiy bilim",
+            "text3": "Nemis madaniyati haqidagi bilimlarni nemis tili orqali o'rganing",
+            "text4": "G'ayratli va mehnatsevar xodimlar",
+            "text5": "Talabalik maqomi tufayli ijtimoiy sug'urta badallari to'lanmaydi",
+            "text6": "Talabalar barcha sohalarda ish bilan ta'minlanadi"
+        }
+    },
+    "about": {
+        "subtitle": "Universitet va texnikum talabalarini ta'til ishlariga jalb qilish",
+        "todo": {
+            "title": "Biz nima bilan shug'ullanamiz?",
+            "text1": "Yozda chet eldan talabalarni ishga joylashtirish (ta'til ishi, 90 kun)",
+            "text2": "Chet ellik malakali ishchilarni ishga joylashtirish (bitiruvchilar, uzoq muddatli)",
+            "text3": "Chet ellik talabalarni amaliyot ishlariga joylashtirish (amaliyot, 2-3 oy)"
+        }
+    },
+    "services": {
+        "subtitle": "Universitet va texnikum talabalarini ta'til ishlariga jalb qilish",
+        "list": {
+            "title": "Bizning xizmatlar:",
+            "text1": "Xorijdagi universitetlar bilan aloqa qilish",
+            "text2": "Nemis tili va chet ellik mutaxassislar bilimi bo'yicha tanlov jarayonlarini o'tkazish",
+            "text3": "Federal Bandlik agentligida ishlash uchun ruxsatnoma (ZAV) uchun ariza berish",
+            "text4": "Talabalarga viza olishda yordam berish",
+            "text5": "Biz 3 oygacha bo'lgan shaxsiy tibbiy sug'urtani o'z zimmamizga olamiz",
+            "text6": "Aeroportdan olib ketish va ish beruvchi bilan bog'lanish",
+            "text7": "Ish beruvchi va talabalarni ishga joylashtirishda integratsiyani qo'llab-quvvatlash"
+        }
+    },
+    "contact": {
+        "title": "Aloqa"
+    },
+    "footer": {
+        "menu": "Menyu",
+        "contact": "Biz bilan bog'laning!",
+        "rights": "Barcha huquqlar himoyalangan.",
+        "imprint": "Imprint",
+        "dataProtection": "Maxfiylik siyosati",
+        "madeBy": "Sayt avtori"
+    },
+    "pageNotFound": "Sahifa topilmadi"
 }

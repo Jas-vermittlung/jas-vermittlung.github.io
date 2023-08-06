@@ -1,12 +1,71 @@
 {
     "navbar": {
         "home": "Home",
-        "about": "About",
-        "services": "Service",
+        "about": "About us",
+        "services": "Services",
         "contact": "Contact"
     },
     "banner": {
         "title": "Placement of university and technical school students from abroad for holiday work",
-        "subtitle": "We make your company even more efficient!"
-    }
+        "subtitle": "We make your company even more efficient!",
+        "titleAbout": "Placement of university and technical school students from abroad for holiday work",
+        "subtitleAbout": "We make your company even more efficient!",
+        "contact": "Contact"
+    },
+    "home": {
+        "subtitle": "Recruitment of university and technical college students from abroad for holiday work",
+        "text1": "Many German farmers need seasonal workers from abroad. It is even better if seasonal workers have basic language skills in German or English. The seasonal work is 90 days, mainly in June, July, August. The company JAS-Vermittlung offers Uzbek students seasonal job opportunities in Germany.",
+        "requirement": {
+            "title": "Requirement for the employer",
+            "text1": "Provide accommodation for three months",
+            "text2": "Student registration with local authorities",
+            "text3": "Detailed work instructions",
+            "text4": "Three months to keep the students busy",
+            "text5": "Payments to students (statutory minimum wage)",
+            "text6": "Pay placement fee (monthly 99 euros per worker)"
+        },
+        "advantages": {
+            "title": "Benefits for the employer",
+            "text1": "Students speak German or English",
+            "text2": "Professional knowledge through studies",
+            "text3": "Learn knowledge about German culture through German language",
+            "text4": "Motivated and hard-working employees",
+            "text5": "No employment subject to social security contributions due to student status",
+            "text6": "Students are employed in all areas"
+        }
+    },
+    "about": {
+        "subtitle": "Recruitment of university and technical college students from abroad for holiday work",
+        "todo": {
+            "title": "What we do?",
+            "text1": "Student placement from abroad in summer (holiday job, 90 days)",
+            "text2": "Skilled worker placement from abroad (graduates, long-term)",
+            "text3": "Student placement from abroad (internship, 2-3 months)"
+        }
+    },
+    "services": {
+        "subtitle": "Recruitment of university and technical college students from abroad for holiday work",
+        "list": {
+            "title": "Our Services",
+            "text1": "Communication with universities abroad",
+            "text2": "Carry out selection procedures in German and specialist knowledge abroad",
+            "text3": "Application for a work permit (ZAV) at the Federal Employment Agency",
+            "text4": "Assisting students with the visa process",
+            "text5": "We take over private health insurance for up to 3 months",
+            "text6": "Airport pickup and contact with employer",
+            "text7": "Employer and student integration support during employment"
+        }
+    },
+    "contact": {
+        "title": "Contact"
+    },
+    "footer": {
+        "menu": "Menu",
+        "contact": "Connect with us!",
+        "rights": "All rights reserved.",
+        "imprint": "Imprint",
+        "dataProtection": "Data Protection",
+        "madeBy": "Made by"
+    },
+    "pageNotFound": "PAGE NOT FOUND"
 }

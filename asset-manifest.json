@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5fe961a3.css",
-    "main.js": "/static/js/main.5a4b3e35.js",
+    "main.css": "/static/css/main.a00be515.css",
+    "main.js": "/static/js/main.2144fea4.js",
     "static/js/787.a4c2cecc.chunk.js": "/static/js/787.a4c2cecc.chunk.js",
+    "static/media/hotelmaid1.jpg": "/static/media/hotelmaid1.54684443bfda478976f8.jpg",
     "static/media/student3.jpg": "/static/media/student3.28195c8df42f8207191a.jpg",
     "static/media/student1.jpg": "/static/media/student1.e3f6d76bdd3fcca3ea72.jpg",
+    "static/media/waiter1.jpg": "/static/media/waiter1.d77997d93a360a117f32.jpg",
+    "static/media/student21.jpg": "/static/media/student21.874726a6629fee9ff428.jpg",
+    "static/media/student5.jpg": "/static/media/student5.8c4ef7b18c97c95d53b5.jpg",
     "static/media/student2.jpg": "/static/media/student2.ac8634082d0581517c31.jpg",
     "static/media/banner2.jpg": "/static/media/banner2.011981b55cb4d512b773.jpg",
-    "static/media/banner1.jpg": "/static/media/banner1.9dd70d00b8e0a1139807.jpg",
+    "static/media/banner1_1.jpg": "/static/media/banner1_1.068113e832b18bac7740.jpg",
     "static/media/banner3.jpg": "/static/media/banner3.60d23c419bfb59131431.jpg",
     "static/media/flag-ru.svg": "/static/media/flag-ru.b7f1f57da72c3b92ab257f812d1b496f.svg",
     "static/media/flag-en.svg": "/static/media/flag-en.0883502f126948021beb1056e92935e0.svg",
@@ -73,12 +77,12 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.5fe961a3.css.map": "/static/css/main.5fe961a3.css.map",
-    "main.5a4b3e35.js.map": "/static/js/main.5a4b3e35.js.map",
+    "main.a00be515.css.map": "/static/css/main.a00be515.css.map",
+    "main.2144fea4.js.map": "/static/js/main.2144fea4.js.map",
     "787.a4c2cecc.chunk.js.map": "/static/js/787.a4c2cecc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fe961a3.css",
-    "static/js/main.5a4b3e35.js"
+    "static/css/main.a00be515.css",
+    "static/js/main.2144fea4.js"
   ]
 }
